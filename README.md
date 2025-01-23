@@ -10,3 +10,7 @@ conda create -n mchatbot python=3.8 -y
 conda activate bchatbot
 ```
 
+```bash
+pip install -r requirement.txt
+```
+
